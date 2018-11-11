@@ -1,0 +1,10 @@
+{
+  "name": "jQuery slider",
+  "version": "1.0.0",
+  "description": "from an old git repo",
+  "keywords": [],
+  "main": "index.html",
+  "dependencies": {
+    "jquery": "1.6.2"
+  }
+}
